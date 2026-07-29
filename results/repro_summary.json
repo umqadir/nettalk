@@ -1,0 +1,20 @@
+{
+  "profile": "paper",
+  "scaling_epochs": 55.0,
+  "generalization_pretrain_epochs": 55.0,
+  "generalization_full_passes": 5.0,
+  "damage_pretrain_epochs": 25.0,
+  "spacing_pretrain_epochs": 25.0,
+  "scaling_best_holdout": 0.7739588756784515,
+  "generalization_zero_pass_holdout": 0.7812265974366838,
+  "generalization_last_pass_full": 0.8926994720110953,
+  "hard_c_count": 134.0,
+  "soft_c_count": 58.0,
+  "power_law_exponent": -1.2952815306341634,
+  "quantization_4bit_holdout": 0.8525059019035868,
+  "window_w7_final_train": 97.71974990805444,
+  "window_w11_final_train": 98.19786686281721,
+  "two_layer_pretrain_final_train": 97.92203015814638,
+  "two_layer_pass0_full": 78.27967620342335,
+  "two_layer_pass11_full": 88.79207947983824
+}

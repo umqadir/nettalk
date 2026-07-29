@@ -1,0 +1,22 @@
+{
+  "novel_word_count": 250.0,
+  "repeats": 3.0,
+  "novel_presentations": 750.0,
+  "old_rehearsal_presentations": 750.0,
+  "schedule_total_updates": 1500.0,
+  "schedule_shuffle_words": false,
+  "massed_novel_metrics": {
+    "novel_mse": 0.02537154056512325,
+    "novel_phoneme_best_guess": 0.8121149897330595,
+    "novel_stress_best_guess": 0.8213552361396304,
+    "novel_perfect_match_phoneme": 0.4984599589322382,
+    "novel_perfect_match_all": 0.40605749486652976
+  },
+  "interleaved_novel_metrics": {
+    "novel_mse": 0.02016456972440728,
+    "novel_phoneme_best_guess": 0.8613963039014374,
+    "novel_stress_best_guess": 0.8069815195071869,
+    "novel_perfect_match_phoneme": 0.5174537987679672,
+    "novel_perfect_match_all": 0.4240246406570842
+  }
+}

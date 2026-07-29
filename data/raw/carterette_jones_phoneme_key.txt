@@ -1,0 +1,46 @@
+# Carterette & Jones (1974) Phonemic Alphabet
+# From Section 4.3 (PDF page 65, book page 50)
+# Modified Trager-Smith system by Professor Peter Ladefoged of UCLA
+
+## Consonants (N=25)
+
+### Stops
+# Voiceless: p, t, č, k, ?
+# Voiced:    b, d, ǰ, g
+
+### Fricatives
+# Voiceless: θ, f, s, š, h
+# Voiced:    ð, v, z, ž
+
+### Nasals: m, n, ŋ
+
+### Glides: w, r, y
+
+### Lateral: l
+
+## Vowels (N=14)
+
+### Front
+# High: iy (beat), i (bit)
+# Mid:  ey (bait), E (bet)
+# Low:  æ (bat)
+
+### Central/Back
+# High: uw (boot), u (put)
+# Mid:  ow (boat), o (bought), ə (but - unstressed schwa)
+# Low:  a (pot), oy (boy), aw (bout), ay (bite)
+
+## OCR Symbol Mappings (from RA analysis)
+# These are the characters that appear in the PDF extraction:
+#
+# θ (th in thin)    -> appears as: O, 0, ft
+# ð (th in this)    -> appears as: 6, &
+# š (sh in she)     -> appears as: S, J, /
+# ž (zh in measure) -> appears as: 3
+# ŋ (ng in sing)    -> appears as: q, Q, η
+# ʔ (glottal stop)  -> appears as: ?
+# č (ch in church)  -> appears as: C, c
+# ǰ (j in judge)    -> appears as: j
+# æ (bat)           -> appears as: ae, £
+# ə (schwa)         -> appears as: a (in unstressed position), e
+# E (bet)           -> appears as: E, £ (context dependent)
